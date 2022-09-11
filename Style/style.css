@@ -1,0 +1,59 @@
+#header  {
+    color: rgba(9, 88, 102, 0.993);
+    text-align: center;
+    background-color: beige;
+    padding-bottom: 20px;
+    padding-top: 10px;
+    margin-bottom: 80px;
+     
+}
+
+
+
+div.player-info {
+border: 2px double black;
+padding-left: 15px;
+padding-right: 15px;
+padding-top: 5px;
+padding-bottom: 20px;
+width : 400px;
+height: 200px;
+overflow: scroll;
+}
+h3 {
+  color: darkblue;
+  text-align: justify;
+
+}
+#Ronaldo, #voting-form {
+  margin-top: 60px;
+}
+img {
+  width: 75px;
+  height: auto;
+}
+#header p {
+  color: blueviolet;
+}
+
+ 
+ 
+ a:link{
+  color: red;
+ }
+ a:visited {
+  color: green;
+ }
+ a:hover{
+  color: black;
+ }
+
+ h2,h3 {
+  font-family: Arial, Helvetica, sans-serif;
+ }
+ h3 {
+  font-size: 24px;
+ }
+p {
+  font-family: 'Roboto Condensed', sans-serif;
+}
